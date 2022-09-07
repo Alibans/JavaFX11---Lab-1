@@ -1,6 +1,5 @@
-# TestJavaFX11_windows
-[Apache NetBeans 12 + OpenJFX 11 + OpenJDK 11 (windows)]
+# JavaFX11_Lab 1
+Apache NetBeans 12.4 + OpenJFX 11 + OpenJDK 11
 
 ![Screenshot](Screenshot.png)
 
-OpenJFX: https://gluonhq.com/download/javafx-11-sdk-windows/
